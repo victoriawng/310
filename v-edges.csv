@@ -1,0 +1,27 @@
+Source,Target,Weight
+Victoria,Boyfriend,95
+Victoria,Sister,90
+Victoria,Mom,70
+Victoria,Dad,60
+Victoria,Best friend,85
+Sister,Best friend,10
+Sister,Boyfriend,20
+Sister,Mom,80
+Sister,Dad,90
+Boyfriend,Best friend,15
+Boyfriend,Dad,10
+Boyfriend,Mom,5
+Victoria,Bf's sister,40
+Sister,Bf's sister,1
+Best friend,Bf's sister,1
+Best friend,Bf's Mom,0
+Best friend,Bf's Dad,0
+Boyfriend,Bf's Mom,70
+Boyfriend,Bf's Dad,60
+Victoria,Bf's Mom,50
+Victoria,Bf's Dad,30
+Sister,Bf's Mom,20
+Sister,Bf's Dad,10
+Dad,Bf's sister,0
+Sister,Victoria,80
+Mom,Bf's Mom,10
